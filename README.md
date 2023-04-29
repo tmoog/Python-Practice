@@ -10,10 +10,10 @@ This houses a multitude of practice exercieses used to learn Python. These files
 8. Dictionaries
 9. Tuples
 10. Regular Expressions
+11. Network Programming
+12. Using Web Services
 
 Still to come...
-* Network Programming
-* Using Web Services
 * Object-Oriented Programming
 * Database and SQLite
 * Data Visualization
